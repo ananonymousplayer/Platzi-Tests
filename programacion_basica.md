@@ -148,7 +148,77 @@ paki.ataque = paki.ataque * 2;
 ## Extras
 1 - ¿Por qué debemos ubicar la etiqueta <script> justo antes de que se cierre el <body>?
     Porque así nuestra página podrá mostrar algo antes de ejecutar el código
+    
+2 - ¿Cómo llamamos a los textos en la industria de la programación?
+    String
+    
+3 - En programación da igual si escribimos código en mayúsculas o minúsculas, nuestra computadora 
+    tiene suficiente sentido común para entenderlo.
+    Falso. La programación es exacta en su sintaxis.
 
+4 - ¿Qué etiqueta en HTML nos permite escribir código JavaScript?
+    Script
+    
+5 - JavaScript es el único lenguaje que voy a aprender para mi carrera profesional en
+programación.
+    Falso. JavaScript es un gran lenguaje de programación. Muchos otros también aportarán a mi aprendizaje.
+
+6 - ¿Cuál de las siguientes propiedades de CSS NO hace parte del modelo de caja?
+    background
+    
+7 - ¿Qué es :hover en CSS?
+    Una pseudo-clase.
+    
+8 - ¿Qué significa el “this” al momento de construir nuestra clase?
+    La palabra clave “this” se refiere al objeto actual en el que se está escribiendo el código.
+    
+9 - ¿Qué son los arreglos?
+    Son objetos que nos permiten guardar diferentes tipos de datos en una lista.
+
+10 - ¿Para qué se utiliza el método .push?
+    Es un método que se utiliza con los arreglos que nos permiten agregar uno o más elementos al final de arreglo 
+    y nos regresa la nueva longitud del mismo
+
+11 - ¿A qué nos referimos cuando decimos “Don't repeat yourself”?
+    A un principio del desarrollo de software que nos recomienda evitar repetir nuestro código cuando estamos 
+    trabajando una solución. Por ejemplo, al momento de crear funciones, lo ideal sería que se puedan reutilizar 
+    a evitar copiar y pegar la misma función muchas veces.
+    
+12 - ¿Qué símbolos utilizo para guardar los elementos de un arreglo?
+    Corchetes cuadrados [ ]
+
+13 - ¿Qué es el método forEach? ¿Para qué sirve?
+    Es un método que nos permite recorrer y realizar una función específica por cada uno de
+    los elementos que se encuentren en un arreglo.
+    
+14 - ¿Cúal es la etiqueta que nos permite dibujar en el navegador?
+    <canvas>
+        
+15 - ¿Para obtener el contexto del canvas usamos getContext()?
+    verdadero
+        
+16 - ¿Cómo agregamos una imagen a un canvas?
+    drawImage()
+
+17 - ¿Cómo logramos que una función se ejecute cada cierto tiempo?
+    setInterval()
+        
+18 - ¿Qué es Node.js?
+    Es el intérprete que nos permite ejecutar JavaScript fuera del navegador.
+
+19 - ¿Cuál es el protocolo que nos permite solicitar y recibir recursos en la web?
+    HTTP o HyperText Transfer Protocol
+        
+20 - ¿Para qué sirve el dominio o la IP?
+    Para identificar a una computadora en una red de internet.
+        
+21 - ¿Para qué sirve el puerto después de la IP?
+    Es como un canal que indica con qué programa nos estamos comunicando}
+
+22 -  ¿Qué significa JSON?
+    JavaScript Object Notation
+
+        
 ------
 
 Este proyecto sigue la especificación de [todos los contribuyentes](https://github.com/all-contributors/all-contributors) . ¡Contribuciones de cualquier tipo son bienvenidas!
